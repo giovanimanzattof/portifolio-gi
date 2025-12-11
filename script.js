@@ -85,7 +85,7 @@ function enviar(event) {
         const msgformatada = encodeURIComponent(text)
         const link = `https://wa.me/${telefone}?text=${msgformatada}`
         window.open(link, '_blank')
-    }, 3000)
+    }, 2000)
 
 
 

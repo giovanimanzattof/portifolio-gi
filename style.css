@@ -314,3 +314,10 @@ h1{
     color: var(--secundaria);
 }
 
+
+@media screen and (max-width: 600px) {
+    .menu{
+        font-size: 0.6rem;
+    }
+    
+}
